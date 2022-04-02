@@ -16,7 +16,10 @@ Created during the course by Mateusz Maj.
 
 ### Installing
 
-- Just fork, clone or download the project.
+1 Fork, clone or download the project.
+2 Sign in to [Font Awesome](https://fontawesome.com/).
+3 Get your KIT from Font Awesome.
+4 Paste your kit code into the index.html file (line:9).
 
 ### Executing program
 
