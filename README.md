@@ -4,8 +4,9 @@ The stopwatch measures the time and saves it in the archive. The stopwatch has t
 
 ## Description
 
-The Stopwatch using Javascript. 
+The Stopwatch using JavaScript.
 Created during the course by Mateusz Maj.
+
 - link to the course [Mateusz Maj Course](https://www.udemy.com/course/10-projektow-w-czystym-javascript-cz-1/) (the course is in Polish)
 
 ## Getting Started
@@ -16,10 +17,7 @@ Created during the course by Mateusz Maj.
 
 ### Installing
 
-1 Fork, clone or download the project.
-2 Sign in to [Font Awesome](https://fontawesome.com/).
-3 Get your KIT from Font Awesome.
-4 Paste your kit code into the index.html file (line:9).
+- Just fork, clone or download the project.
 
 ### Executing program
 
